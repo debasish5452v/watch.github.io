@@ -1,4 +1,4 @@
-# Digital Clock with Social Links
+# Digital Clock
 
 A stylish and interactive digital clock web application with social media connection buttons.
 
