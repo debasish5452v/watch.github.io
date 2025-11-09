@@ -32,3 +32,4 @@ You can customize the clock by:
 - Modifying colors in CSS variables
 - Updating social media links in the HTML
 - Adjusting the clock size by changing SVG dimensions
+
